@@ -1,0 +1,35 @@
+{
+    "name": "kanellov/greek-vat-number",
+    "description": "A simple function that validates Greek VAT number",
+    "type": "library",
+    "keywords": [
+        "vat", "greek", "afm"
+    ],
+    "homepage": "https://github.com/kanellov/greek-vat-number",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vassilis Kanellopoulos",
+            "email": "contact@kanellov.com",
+            "homepage": "http://kanellov.com",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "contact@kanellov.com",
+        "issues": "https://github.com/kanellov/greek-vat-number/issues",
+        "source": "https://github.com/kanellov/greek-vat-number"
+    },
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "require-dev": {
+        "funkatron/funit": "0.6.0"
+    },
+    "autoload": {
+        "files": [
+            "greek_vat_number.php"
+        ]
+    }
+
+}
