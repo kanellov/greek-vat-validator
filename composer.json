@@ -28,7 +28,7 @@
     },
     "autoload": {
         "files": [
-            "greek_vat_number.php"
+            "greek_vat_validator.php"
         ]
     }
 
